@@ -1,0 +1,5 @@
+comtypes==1.1.14
+docx_mailmerge==0.5.0
+mailmerge==2.2.1
+pandas==1.5.1
+PyPDF2==2.11.1
